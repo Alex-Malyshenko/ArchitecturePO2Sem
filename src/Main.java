@@ -4,6 +4,9 @@ public class Main {
         generator.openRewgard();
         generator = new GoldGenerator();
         generator.openRewgard();
+        generator = new BronzeFabric();
+        generator.openRewgard();
+
     }
 }
 /*
